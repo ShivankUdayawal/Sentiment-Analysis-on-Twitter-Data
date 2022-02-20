@@ -17,3 +17,7 @@ It contains the following 6 fields :
        5. user: the user that tweeted.
        
        6. text: the text of the tweet.
+
+### Exploratory Data Analysis
+
+![](https://github.com/ShivankUdayawal/Sentiment-Analysis-on-Twitter-Data/blob/main/Data%20Visualization/01.jpg)
