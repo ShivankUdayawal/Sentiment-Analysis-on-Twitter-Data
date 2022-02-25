@@ -24,8 +24,12 @@ It contains the following 6 fields :
 
 ![](https://github.com/ShivankUdayawal/Sentiment-Analysis-on-Twitter-Data/blob/main/Data%20Visualization/02.jpg)
 
+## Word Cloud
+
 ![](https://github.com/ShivankUdayawal/Sentiment-Analysis-on-Twitter-Data/blob/main/Data%20Visualization/03.jpg)
 
 ![](https://github.com/ShivankUdayawal/Sentiment-Analysis-on-Twitter-Data/blob/main/Data%20Visualization/04.jpg)
+
+## Confusion Matrix
 
 ![](https://github.com/ShivankUdayawal/Sentiment-Analysis-on-Twitter-Data/blob/main/Data%20Visualization/05.jpg)
