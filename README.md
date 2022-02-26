@@ -30,6 +30,13 @@ It contains the following 6 fields :
 
 ![](https://github.com/ShivankUdayawal/Sentiment-Analysis-on-Twitter-Data/blob/main/Data%20Visualization/04.jpg)
 
+## PreProcessing of Text
+
+### Text Normalization
+
+       Text Preprocessing is traditionally an important step for Natural Language Processing (NLP) tasks. 
+       It transforms text into a more digestible form so that machine learning algorithms can perform better.
+
 ## Confusion Matrix
 
 ![](https://github.com/ShivankUdayawal/Sentiment-Analysis-on-Twitter-Data/blob/main/Data%20Visualization/05.jpg)
