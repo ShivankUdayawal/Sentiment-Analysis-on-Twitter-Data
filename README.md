@@ -36,6 +36,10 @@ It contains the following 6 fields :
 
        Text Preprocessing is traditionally an important step for Natural Language Processing (NLP) tasks. 
        It transforms text into a more digestible form so that machine learning algorithms can perform better.
+       
+    **The Preprocessing steps taken are:**
+
+   **1. Lower Casing:** Each text is converted to lowercase. Replacing URLs: Links starting with "http" or "https" or "www" are replaced by "URL".
 
 ## Confusion Matrix
 
