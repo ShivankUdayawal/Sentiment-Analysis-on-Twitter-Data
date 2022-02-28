@@ -40,6 +40,8 @@ It contains the following 6 fields :
     **The Preprocessing steps taken are:**
 
    **1. Lower Casing:** Each text is converted to lowercase. Replacing URLs: Links starting with "http" or "https" or "www" are replaced by "URL".
+   
+   **2. Replacing Emojis:** Replace emojis by using a pre-defined dictionary containing emojis along with their meaning. (eg: ":)" to "EMOJIsmile")
 
 ## Confusion Matrix
 
