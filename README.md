@@ -43,6 +43,9 @@ It contains the following 6 fields :
    
    **2. Replacing Emojis:** Replace emojis by using a pre-defined dictionary containing emojis along with their meaning. (eg: ":)" to "EMOJIsmile")
 
+   **3. Replacing Usernames:** Replace @Usernames with word "USER". (eg: "@Kaggle" to "USER")
+   
+   
 ## Confusion Matrix
 
 ![](https://github.com/ShivankUdayawal/Sentiment-Analysis-on-Twitter-Data/blob/main/Data%20Visualization/05.jpg)
