@@ -47,6 +47,8 @@ It contains the following 6 fields :
    
    **4. Removing Non-Alphabets:** Replacing characters except Digits and Alphabets with a space.
    
+   **5. Removing Consecutive letters:** 3 or more consecutive letters are replaced by 2 letters. (eg: "Heyyyy" to "Heyy")
+   
    
 ## Confusion Matrix
 
