@@ -45,6 +45,8 @@ It contains the following 6 fields :
 
    **3. Replacing Usernames:** Replace @Usernames with word "USER". (eg: "@Kaggle" to "USER")
    
+   **4. Removing Non-Alphabets:** Replacing characters except Digits and Alphabets with a space.
+   
    
 ## Confusion Matrix
 
