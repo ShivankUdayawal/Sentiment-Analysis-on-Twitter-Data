@@ -49,6 +49,8 @@ It contains the following 6 fields :
    
    **5. Removing Consecutive letters:** 3 or more consecutive letters are replaced by 2 letters. (eg: "Heyyyy" to "Heyy")
    
+   **6. Removing Short Words:** Words with length less than 2 are removed.
+   
    
 ## Confusion Matrix
 
