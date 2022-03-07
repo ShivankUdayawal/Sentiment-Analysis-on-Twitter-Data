@@ -37,7 +37,7 @@ It contains the following 6 fields :
        Text Preprocessing is traditionally an important step for Natural Language Processing (NLP) tasks. 
        It transforms text into a more digestible form so that machine learning algorithms can perform better.
        
-    **The Preprocessing steps taken are:**
+**The Preprocessing steps taken are:**
 
    **1. Lower Casing:** Each text is converted to lowercase. Replacing URLs: Links starting with "http" or "https" or "www" are replaced by "URL".
    
@@ -53,7 +53,10 @@ It contains the following 6 fields :
    
    **7. Removing Stopwords:** Stopwords are the English words which does not add much meaning to a sentence. They can safely be ignored without sacrificing the meaning of the sentence. (eg: "the", "he", "have")
    
+   **8. Lemmatizing:** Lemmatization is the process of converting a word to its base form. (e.g: “Great” to “Good”)
    
+
+
 ## Confusion Matrix
 
 ![](https://github.com/ShivankUdayawal/Sentiment-Analysis-on-Twitter-Data/blob/main/Data%20Visualization/05.jpg)
