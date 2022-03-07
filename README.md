@@ -51,6 +51,8 @@ It contains the following 6 fields :
    
    **6. Removing Short Words:** Words with length less than 2 are removed.
    
+   **7. Removing Stopwords:** Stopwords are the English words which does not add much meaning to a sentence. They can safely be ignored without sacrificing the meaning of the sentence. (eg: "the", "he", "have")
+   
    
 ## Confusion Matrix
 
